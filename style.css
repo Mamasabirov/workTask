@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.inp_name{
+    width: 25%;
+    top: 5px;
+}
+
+.inp_phone{
+    width: 25%;
+    top: 5px;
+}
+
+.inp_password{
+    width: 25%;
+    top: 5px;
+}
+
+.inp_password_second{
+    width: 25%;
+    top: 5px;
+}
+
+.button{
+    width: 25%;
+    top: 5px;
+}
